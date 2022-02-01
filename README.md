@@ -6,7 +6,7 @@
  <ul>
   <li>Backend development</li>
   <li>Cybersecurity</li>
-  <li>CI/CD</li>
+  <li>DevOps</li>
  </ul>
 
 
