@@ -4,8 +4,10 @@
  I'm <b>Xander</b>, an <b>Engineering Technology (Electronics & ICT) student</b>.<br><br>
  I'm passionate and interested in lots of things in the wonderful world of software engineering but a bit more in these topics:
  <ul>
+  <li>Software architecture</li>
+  <li>Software security</li>
+  <li>Software testing</li>
   <li>Backend development</li>
-  <li>Cybersecurity</li>
   <li>DevOps</li>
  </ul>
 
