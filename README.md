@@ -8,7 +8,7 @@
   <li>Software security</li>
   <li>Software testing</li>
   <li>Backend development</li>
-  <li>DevOps</li>
+  <li>CI/CD</li>
  </ul>
 
 
