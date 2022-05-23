@@ -14,7 +14,7 @@
 Find out more about me on <a href="https://xdoubleu.com">my website</a>!<br>
 
 <p align="center">
- <img height="100" src="https://media.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.gif">
+ <img height="300" src="https://i.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.webp">
 </p>
 
 </div>
