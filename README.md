@@ -1,6 +1,5 @@
 ## About Me
 <div>
- <img height="200em" align="right" src="https://media.giphy.com/media/RyXVu4ZW454IM/giphy.gif">
  I'm <b>Xander</b>, an <b>Engineering Technology (Electronics & ICT) student</b>.<br><br>
  I'm passionate and interested in lots of things in the wonderful world of software engineering but a bit more in these topics:
  <ul>
@@ -13,8 +12,10 @@
 
 
 Find out more about me on <a href="https://xdoubleu.com">my website</a>!<br>
-(On the right you can find my favourite gif)
 
+<p align="center">
+ <img height="100" src="https://media.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.gif">
+</p>
 
 </div>
 
