@@ -4,9 +4,8 @@
  I'm passionate and interested in lots of things in the wonderful world of software engineering but a bit more in these topics:
  <ul>
   <li>Software architecture</li>
-  <li>Software security</li>
   <li>Software testing</li>
-  <li>Backend development</li>
+  <li>API development</li>
   <li>CI/CD</li>
  </ul>
 
