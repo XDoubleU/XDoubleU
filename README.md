@@ -3,9 +3,8 @@
  I'm <b>Xander</b>, an <b>Engineering Technology (Electronics & ICT) student</b>.<br><br>
  I'm passionate and interested in lots of things in the wonderful world of software engineering but a bit more in these topics:
  <ul>
-  <li>Software architecture</li>
-  <li>Software testing</li>
-  <li>API development</li>
+  <li>API/Back-end development (architecture, security, testing)</li>
+  <li>DX (Developer Experience)</li>
   <li>CI/CD</li>
  </ul>
 
