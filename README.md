@@ -4,8 +4,8 @@
  I'm passionate and interested in lots of things in the wonderful world of software engineering but a bit more in these topics:
  <ul>
   <li>API/Back-end development (architecture, security, testing)</li>
-  <li>DX (Developer Experience)</li>
-  <li>CI/CD</li>
+  <li>DevOps</li>
+  <li>DX</li>
  </ul>
 
 
