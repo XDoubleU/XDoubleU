@@ -16,8 +16,3 @@ Find out more about me on <a href="https://xdoubleu.com">my website</a>!<br>
 </p>
 
 </div>
-
-## Current occupations
- - Working on completing 50% of my [Steam library](https://completionist.me/steam/profile/76561198127953838)
- - ~~Trying to read 50 [books](https://www.goodreads.com/user/show/114660594-xander-warszawski) in a year~~
- - Binge-listening podcasts
