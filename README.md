@@ -12,7 +12,7 @@
 Find out more about me on <a href="https://xdoubleu.com">my website</a>!<br>
 
 <p align="center">
- <img height="300" src="https://i.giphy.com/media/UPqYp2tj61XlBhlPbH/giphy.webp">
+ <img height="300" src="https://media.tenor.com/dDmtkOZqqUkAAAAC/vintage-computer.gif">
 </p>
 
 </div>
