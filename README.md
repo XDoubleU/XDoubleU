@@ -1,12 +1,13 @@
 # About Me
 
  I'm <b>Xander</b>, a <b>Junior Software Engineer</b>.\
- I'm passionate and interested in lots of things in the wonderful world of software engineering but a bit more in these topics:
+ I'm passionated and interested in many things in the wonderful world of software engineering but a bit more in:
 - API/Back-end development (architecture, security, testing)
 - DevOps
 - DX
 
  I also like experimenting with programming languages and technologies, currently my preferred stack is:
+- Digital Ocean (for deployment)
 - PostgreSQL (running in Docker)
 - Go (backend)
 - NextJS (frontend)
