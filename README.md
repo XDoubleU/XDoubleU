@@ -1,6 +1,6 @@
 # About Me
 
- I'm <b>Xander</b>, a <b>Junior Software Engineer</b>.\
+ I'm <b>Xander</b>, a <b>Software Engineer</b>.\
  I'm passionated and interested in many things in the wonderful world of software engineering but a bit more in:
 - API/Back-end development (architecture, security, testing)
 - DevOps
